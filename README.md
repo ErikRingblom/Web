@@ -1,3 +1,3 @@
 # WebMasters
 # Screenshot
-![](docs/Webking.png)
+![](Webking.png)
